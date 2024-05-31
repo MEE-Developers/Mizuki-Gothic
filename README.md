@@ -7,6 +7,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生于「IPAex ゴシック�
 
 水木字型交流群：901505967
 
+**不建议将其用于繁体字!**
+
 ## 项目介绍
 2009 年，日本「独立行政法人情报处理推进机构」（IPA）将「IPA 明朝」和「IPA ゴシック」两款字型按照 IPA Font License 开源发布。这两款字型分别衍生自 TypeBank 公司出品的、由林隆男（Takao Hayashi）设计的[「TB 明朝」](https://www.typebank.co.jp/fontfamily/tbmincho/)和[「TB ゴシック」](https://www.typebank.co.jp/fontfamily/tbgothic/)。后经多年持续修订，两款字型扩充成[「IPAex 明朝」「IPAex ゴシック」](https://moji.or.jp/ipafont/)，包含 JIS 第一～第四水准的字符。而[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)是对「IPAex 明朝」的进一步扩充，包含了「文字情报基盘」所涵盖的汉字及其诸多 IVD 变体。
 
