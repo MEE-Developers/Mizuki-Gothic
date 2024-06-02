@@ -1,4 +1,4 @@
-# Mizuki Gothic / 水木黑体 / 水木ゴシック
+# Mizuki Gothic / 水木黑体 / 水木ゴシック（已停止维护）
 
 A Chinese font derived from IPAex Gothic. 一款衍生于「IPAex ゴシック」的中文字型。
 
