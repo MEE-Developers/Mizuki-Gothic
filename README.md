@@ -60,6 +60,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于「IPAex ゴシック�
 - [字统网](https://zi.tools/)
 ## 更多「水木」系列字型
 - [水木明体 / Mizuki Ming](https://github.com/enderseven1/Mizuki-Ming/)
+- [水木明体变体 / Mizuki Ming Var](https://github.com/enderseven1/Mizuki-Ming-Var/)
 ## 「霞鹜」系列字型
 ### 与本项目有关联的字型
 - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
